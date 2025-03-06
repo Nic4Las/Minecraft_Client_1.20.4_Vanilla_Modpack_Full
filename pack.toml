@@ -1,0 +1,13 @@
+name = "Minecraft Client 1.20.4 Vanilla Modpack Full"
+author = "Nic4Las"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "348097dd963c235a568d0a52f27ffe484326cae37bf174537b988a90b35d429c"
+
+[versions]
+fabric = "0.16.10"
+minecraft = "1.21.4"

@@ -1,0 +1,13 @@
+name = "Sodium Extra Information"
+filename = "SodiumExtraInformation-fabric-2.4.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/696WgnvT/versions/M44yTLo8/SodiumExtraInformation-fabric-2.4.1.jar"
+hash-format = "sha512"
+hash = "452f00a782fa9356a230973eddd45d15319388f8979a4af12f035ac06de895cc67a6d0cdc17368f1ffc1025459ddd89bc0fff0f377b4b305e3db123e571602b4"
+
+[update]
+[update.modrinth]
+mod-id = "696WgnvT"
+version = "M44yTLo8"
