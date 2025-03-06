@@ -6,6 +6,11 @@ hash = "417e4f42790407e6fb4dfcb03cd4abcdf3aa00f4dcef3f3a2edec1a3e1a9a3ef"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "848c49f2ead5e1e71d7be95d2d9e1cb992631faf91500b9c59e72d61afca33fd"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "cbc0973dadd8e4a191ce8e819f212bcfb58708885b4a46a9de7afa29e71aadad"
 metafile = true
@@ -178,6 +183,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "9a53bc41ea5265170f6a87285744c158834881ec706c68c2b8101f740396b36b"
 metafile = true
 
 [[files]]
